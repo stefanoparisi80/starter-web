@@ -8,6 +8,10 @@ This is introduction bla bla bla
 
 ## Purpose
 
+bla bla bla
+
 ## Deployment
+
+this is deployment bla bla bla
 
 ## How to contribute
