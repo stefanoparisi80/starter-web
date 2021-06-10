@@ -15,3 +15,6 @@ bla bla bla
 this is deployment bla bla bla
 
 ## How to contribute
+
+## Copyright
+2020 Git.training
