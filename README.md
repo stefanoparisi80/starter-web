@@ -16,5 +16,7 @@ this is deployment bla bla bla
 
 ## How to contribute
 
+Please fork this repository for reviews
+
 ## Copyright
 2020 Git.training
