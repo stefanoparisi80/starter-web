@@ -1,6 +1,7 @@
 # Starter web page
 
-This is a simple bla bla bla
+This is a simple bla bla bla. 
+Adding text text text
 
 ## Introduction
 
