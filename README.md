@@ -20,4 +20,4 @@ this is deployment bla bla bla
 Please fork this repository for reviews
 
 ## Copyright
-2020 Git.training
+2020 Git.training . All rights reserved.
